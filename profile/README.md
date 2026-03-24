@@ -1,12 +1,10 @@
-## Hi there 👋
+## Aplicación de Transporte Tipo Uber
 
-<!--
+Se propone el desarrollo de una aplicación móvil de transporte bajo demanda, similar al modelo de plataformas como Uber, que permitirá conectar de manera eficiente a pasajeros con conductores en tiempo real.
 
-**Here are some ideas to get you started:**
+La solución contemplará una experiencia intuitiva y moderna, donde los usuarios podrán solicitar un vehículo desde su ubicación actual, visualizar conductores disponibles en el mapa, conocer el tiempo estimado de llegada, y realizar el seguimiento del viaje en tiempo real hasta su destino.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Por otro lado, los conductores contarán con una aplicación dedicada que les permitirá recibir solicitudes de viaje, aceptar o rechazar servicios, gestionar sus ingresos y acceder a su historial de recorridos.
+
+
+[Ver otros proyectos con Geolocalización]([https://tusitio.com/demo](https://github.com/Propuesta-Uber/.github/wiki/Otros-proyectos))
