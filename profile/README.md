@@ -1,6 +1,6 @@
 ## Aplicación de Transporte Tipo Uber
 
-Se propone el desarrollo de una aplicación móvil de transporte bajo demanda, similar al modelo de plataformas como Uber, que permitirá conectar de manera eficiente a pasajeros con conductores en tiempo real.
+Se propone el desarrollo de una aplicación móvil de transporte, similar al modelo de plataformas como Uber, que permitirá conectar de manera eficiente a pasajeros con conductores en tiempo real.
 
 La solución contemplará una experiencia intuitiva y moderna, donde los usuarios podrán solicitar un vehículo desde su ubicación actual, visualizar conductores disponibles en el mapa, conocer el tiempo estimado de llegada, y realizar el seguimiento del viaje en tiempo real hasta su destino.
 
