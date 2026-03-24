@@ -7,4 +7,4 @@ La solución contemplará una experiencia intuitiva y moderna, donde los usuario
 Por otro lado, los conductores contarán con una aplicación dedicada que les permitirá recibir solicitudes de viaje, aceptar o rechazar servicios, gestionar sus ingresos y acceder a su historial de recorridos.
 
 
-[Ver otros proyectos con Geolocalización](https://github.com/Propuesta-Uber/.github/wiki/Otros-proyectos)
+[Ver otros proyectos con Geolocalización](https://github.com/Propuesta-Uber/.github/wiki/Nuestra-experiencia)
