@@ -8,3 +8,5 @@ Por otro lado, los conductores contarán con una aplicación dedicada que les pe
 
 
 [Ver otros proyectos con Geolocalización](https://github.com/Propuesta-Uber/.github/wiki/Nuestra-experiencia)
+<img width="4078" height="1703" alt="Imagen2" src="https://github.com/user-attachments/assets/a1ba7b2b-8e41-46c7-b9d3-968caeeb1510" />
+
